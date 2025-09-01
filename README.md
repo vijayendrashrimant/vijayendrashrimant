@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vijayendrashrimant](https://github.com/vijayendrashrimant)
 
-- 💬 Ask me about **Winform, WCF, C#, SQL, Power BI, SSIS, SSRS, Web API, Custome Application Development**
+- 💬 Ask me about **Winform, WCF, C#, SQL, Power BI, SSIS, SSRS, Web API, ML.Net, Basic Python, Hugging Face, Ollama, GitHub, ChatGPT, Copilot, Grok AI, Custom Application Development**
 
 - 📫 How to reach me **viju_shrimant@yahoo.co.in**
 
