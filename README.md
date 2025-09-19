@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayendrashrimant&label=Profile%20views&color=0e75b6&style=flat" alt="vijayendrashrimant" /> </p>
 
-- 🌱 I’m currently learning **AI, Azure, Power BI, Power BI.**
+- 🌱 I’m currently learning **AI, Azure, Power BI.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vijayendrashrimant](https://github.com/vijayendrashrimant)
 
