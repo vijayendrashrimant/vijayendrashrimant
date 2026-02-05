@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayendrashrimant&label=Profile%20views&color=0e75b6&style=flat" alt="vijayendrashrimant" /> </p>
 
-- 🌱 I’m currently learning **AI, Azure, Power BI.**
+- 🌱 I’m currently learning **AI, Azure, Power BI, Databricks, ETL.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vijayendrashrimant](https://github.com/vijayendrashrimant)
 
-- 💬 Ask me about **Winform, WCF, C#, SQL, Power BI, SSIS, SSRS, Web API, ML.Net, Basic Python, Hugging Face, Ollama, GitHub, ChatGPT, Copilot, Grok AI, Custom Application Development**
+- 💬 Ask me about **Winform, WCF, C#, SQL, Power BI, SSIS, SSRS, Web API, ML, Databricks, Python, Hugging Face, Ollama, GitHub, ChatGPT, Copilot, Grok AI, Custom Application Development**
 
 - 📫 How to reach me **viju_shrimant@yahoo.co.in**
 
