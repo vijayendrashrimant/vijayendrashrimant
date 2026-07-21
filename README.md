@@ -5,7 +5,7 @@
 
 - Talk to me about Freelancing Opportunities, Open Source, Full-time, Contract.
 
-- 💬 Ask me about ** WinForms, WCF, C#, SQL, Power BI, SSIS, SSRS, Web API, ML, Databricks, Python, Hugging Face, Ollama, GitHub, ChatGPT, Copilot, Grok AI, Custom Application Development, Troubleshooting, expret into Complex issue solving **
+- 💬 Ask me about ** WinForms, WCF, C#, WPF, SQL, Power BI, SSIS, SSRS, Web API, Python, Hugging Face, Ollama, GitHub, ChatGPT, Copilot, Grok AI, Custom Application Development, Troubleshooting, expert in complex issue solving, Legacy code Migration **
 
 - 📫 How to reach me: **viju_shrimant@yahoo.co.in**
 
