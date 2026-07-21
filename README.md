@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vijayendra</h1>
+<h1 align="center">Hi 👋, I'm Vijayendra Shrimant</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayendrashrimant&label=Profile%20views&color=0e75b6&style=flat" alt="vijayendrashrimant" /> </p>
 
-- 🌱 I’m currently learning **AI, Azure, Power BI, Databricks, ETL.**
+- Talk to me about Freelancing Opportunities, Open Source, Full-time, Contract.
 
-- Talk to me about Python, Freelancing Opportunities, Open Source
+- 💬 Ask me about ** WinForms, WCF, C#, SQL, Power BI, SSIS, SSRS, Web API, ML, Databricks, Python, Hugging Face, Ollama, GitHub, ChatGPT, Copilot, Grok AI, Custom Application Development, Troubleshooting, expret into Complex issue solving **
 
-- 💬 Ask me about **Winform, WCF, C#, SQL, Power BI, SSIS, SSRS, Web API, ML, Databricks, Python, Hugging Face, Ollama, GitHub, ChatGPT, Copilot, Grok AI, Custom Application Development**
-
-- 📫 How to reach me **viju_shrimant@yahoo.co.in**
+- 📫 How to reach me: **viju_shrimant@yahoo.co.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
