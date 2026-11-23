@@ -138,7 +138,7 @@ Local-first, open-source data cleaning web application.
 ## Let's Connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/vijayendrashrimant](https://linkedin.com/in/vijayendrashrimant)
-- 🌐 **Portfolio:** [vijayendrashrimant.github.io](https://vijayendrashrimant.github.io)
+- 🌐 **Portfolio:** [vijayendrashrimant.github.io](https://vijayendrashrimant.github.io/vijayendrashrimant/)
 - 📫 **Email:** [viju_shrimant@yahoo.co.in](mailto:viju_shrimant@yahoo.co.in)
 - 💬 **Ask me about:** WinForms, WCF, C#, WPF, SQL, Power BI, SSIS, SSRS, Web API, Python, Hugging Face, Ollama, Legacy Code Migration, Custom Application Development, Troubleshooting, Complex Issue Solving
 
