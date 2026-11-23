@@ -6,7 +6,7 @@ Pune, India
 
 <p align="center">
   <a href="https://linkedin.com/in/vijayendrashrimant"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://vijayendrashrimant.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-0E7C6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://vijayendrashrimant.github.io/vijayendrashrimant/"><img src="https://img.shields.io/badge/Portfolio-Live-0E7C6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:viju_shrimant@yahoo.co.in"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/vijayendrashrimant"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
