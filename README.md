@@ -4,10 +4,12 @@
 
 Pune, India
 
-[[Profile Views](https://komarev.com/ghpvc/?username=vijayendrashrimant&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/vijayendrashrimant)
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/vijayendrashrimant)
-[[Portfolio](https://img.shields.io/badge/Portfolio-Live-0E7C6B?style=flat)](https://vijayendrashrimant.github.io)
-[[Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:viju_shrimant@yahoo.co.in)
+<p align="center">
+  <a href="https://linkedin.com/in/vijayendrashrimant"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://vijayendrashrimant.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-0E7C6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:viju_shrimant@yahoo.co.in"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/vijayendrashrimant"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
